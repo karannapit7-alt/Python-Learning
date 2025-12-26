@@ -1,4 +1,4 @@
-# input lena koi bhi chiz ho sakta hai jaise ki user se data lena aur output dena  NOTE :- integer input lene ke liye humein int()laga hain
+# input lena koi bhi chiz ho sakta hai jaise ki user se data lena aur output dena  NOTE :- integer input lene ke liye humein int() laga hain
 num = int(input("enter a number : "))
 
 print(num)
@@ -15,4 +15,5 @@ print(name)
 price = float(input("Enter the price :"))
 
 print(price)
+
 
