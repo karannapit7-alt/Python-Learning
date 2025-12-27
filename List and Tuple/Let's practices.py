@@ -1,8 +1,8 @@
 # WAP to ask the user to enter names of their 3 favorite movies & store them in a list
 movies = []
-mov1 = input("Enter the 1st mov ")
-mov2 = input("Enter the 2nd mov")
-mov3 = input("Enter the 3rd mov")
+mov1 = input("Enter the 1st mov ") # yah dale koi bhi 1st movie ka name.
+mov2 = input("Enter the 2nd mov")  # yah 2nd movie ka name.
+mov3 = input("Enter the 3rd mov")  # yah 3rd movie ka name.
 
 movies.append(mov1)
 movies.append(mov2)
@@ -30,4 +30,5 @@ print(grade.count("A"))
 list = ["C","D","B","A"]
 list.sort()
 print(list)
+
 
