@@ -10,7 +10,7 @@ show(6)
 
 
 
-# write a recursive function to calculate the sum of first n natural number.
+# Write a recursive function to calculate the sum of first n natural number.
 
 def cal_sum(n):
     if(n == 0):
@@ -34,3 +34,4 @@ Fruits = ["mango","Banana","watermelon","apple"]
 print_list(Fruits)
 
     
+
