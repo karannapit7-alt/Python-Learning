@@ -21,6 +21,7 @@ sum = cal_sum(5)
 print(sum)
 
 
+# Write a Recursive function to print all elements in a list.
 
 def print_list(list,idx=0):
     if(idx == len(list)):
@@ -31,4 +32,5 @@ def print_list(list,idx=0):
 Fruits = ["mango","Banana","watermelon","apple"]
 
 print_list(Fruits)
+
     
